@@ -1,0 +1,25 @@
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(89, 141, 236);
+}
+
+input{
+    margin:10px;
+}
+
+span{
+    color: rgb(221, 107, 164);
+}
+
+#submit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:rgb(185, 98, 228) ;  
+}
+#sort{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:rgb(122, 221, 213);   
+    display: none;
+}
